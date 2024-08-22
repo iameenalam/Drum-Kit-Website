@@ -30,13 +30,13 @@ Check out the live demo of the Drum Kit [here](https://ddrum-kit.vercel.app/).
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/drum-kit.git
+   git clone [https://github.com/iameenalam/Drum-Kit-Website]
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd drum-kit
+   cd Drum-Kit-Website
    ```
 
 3. Open the `index.html` file in your preferred web browser.
